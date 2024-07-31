@@ -22,7 +22,7 @@ Clona este repositorio en tu máquina local:
 
 sh
 Copiar código
-git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+git clone https://github.com/Cristian1355/CRUD-APP
 Navega hasta el directorio del proyecto:
 
 sh
